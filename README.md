@@ -2,6 +2,8 @@
 
 This is an [ESLint](https://eslint.org) configuration for [Meteor](https://www.meteor.com) apps which implements the recommendations from the [Meteor Guide](https://guide.meteor.com/)'s section on [Code style](https://guide.meteor.com/code-style.html#eslint).
 
+> This repository has been merged into Meteor main repository. You can [find it there](https://github.com/meteor/meteor/tree/devel/npm-packages/eslint-config-meteor).
+
 # Usage
 
 ## Install
